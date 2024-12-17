@@ -1,0 +1,5 @@
+# Ignorar node_modules y archivos de caché
+node_modules/
+.cache/
+.DS_Store
+.env
